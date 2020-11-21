@@ -46,3 +46,4 @@ testem.log
 Thumbs.db
 db.sqlite3
 /*/migrations
+/*/__pycache__/
